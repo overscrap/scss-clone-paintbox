@@ -1,1 +1,2 @@
-# scss-master-class
+# scss-clone-paintbox
+# https://overscrap.github.io/scss-Paintbox/
