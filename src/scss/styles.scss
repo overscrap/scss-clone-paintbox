@@ -76,16 +76,17 @@ header {
   }
   a {
     width: 10%;
-    background-color: white;
+    background-color:transparent;
     padding: 20px 0px;
     text-align: center;
     text-decoration: none;
-    color: black;
+    color: white;
     font-size: 10px;
     transition: color 0.3s linear, background 0.3s linear;
+    border: 1px solid white;
     &:hover {
-      background-color: black;
-      color: white;
+      background-color: white;
+      color: black;
     }
   }
 }
